@@ -5,14 +5,13 @@
 **把 macOS 桌面搬进浏览器** —— 窗口系统、Dock、菜单栏、右键环形菜单、聚光灯、飘落粒子,以及 **20 个应用模块**
 (卡牌收集 / 实时聊天室 / GALGAME 图鉴 / 影音播放 / 电子书 / 词典 / 小游戏 …)。
 
+**网址：[macos.sakyubasu.moe](https://macos.sakyubasu.moe)**
+
 **中文** · [English](./README.en.md)
 
 </div>
 
 ![桌面全景](./screenshots/01-desktop.png)
-
-> 📷 **截图还没上传** —— 图片放在 [`./screenshots/`](./screenshots/README.md),文件名与清单见那个目录的说明。
-> 缺图只会让对应的那一张不显示,不影响其它内容。
 
 ---
 
