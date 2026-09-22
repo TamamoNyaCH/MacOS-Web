@@ -11,8 +11,6 @@
 
 ![桌面全景](./screenshots/01-desktop.png)
 
-> 📷 截图放 `intro/screenshots/`,文件名见文末 [截图清单](#截图清单)。
-
 ---
 
 <a id="中文"></a>
